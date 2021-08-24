@@ -1,0 +1,11 @@
+cavalo
+macaco
+camaleao
+elefante
+lobo
+cachorro
+cobra
+gato
+tigre
+leao
+pantera
